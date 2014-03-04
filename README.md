@@ -1,5 +1,4 @@
-Utilities for working with bond valence parameters
-==================================================
+Bond valence parameter tools
+============================
 
-The bond valence parameters accumulated by David I. Brown are available from:
-http://www.iucr.org/resources/data/datasets/bond-valence-parameters
+These are some simple tools for working with bond valence parameters, based on the values accumulated by David I. Brown, available online here: http://www.iucr.org/resources/data/datasets/bond-valence-parameters
