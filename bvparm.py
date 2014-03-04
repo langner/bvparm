@@ -29,6 +29,7 @@ class BondValenceParameters:
             for source in self.fallback:
                 try:
                     f = urllib.urlopen(source)
+                    self.source = source
                     print "Reading parameters from %s" % source
                     break
                 except:
@@ -57,8 +58,8 @@ class BondValenceParameters:
             il += 1
         while self.cif_lines[il].strip():
             line = self.cif_lines[il]
-            lbl = line.split("'")[0].strip()
-            ref = line.split("'")[1].strip()
+            lbl = line.split()[0]
+            ref = " ".join(line.split()[1:])
             self.references[lbl] = ref
             il += 1
 
