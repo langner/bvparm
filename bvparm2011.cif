@@ -525,7 +525,7 @@ Cu 1   N  -3    1.520    0.37     l   '3-coordinate N'
 Cu 1   N  -3    1.480    0.37     l   '2-coordinate N'
 Cu 1   N  -3    1.630    0.37     l   '4-coordinate N'
 Cu 1   P  -3    1.774    0.37     l   'from transition metal complexes'
-Cu 1   As -3    1,856    0.37     l   'from transition metal complexes'
+Cu 1   As -3    1.856    0.37     l   'from transition metal complexes'
 Cu 1   C  -4    1.446    0.37     l   'from transition metal complexes'
 Cu 2   O  -2    1.679    0.37     a   ?
 Cu 2   O  -2    1.649    0.37     j   'from transition metal complexes'
@@ -991,7 +991,7 @@ Mo 3   Br -1    2.34     0.37     e   unchecked
 Mo 3   Br -1    2.191    0.541    ax  '6.0 A cut-off'
 Mo 3   N  -3    1.96     0.37     e   unchecked
 Mo 4   O  -2    1.886    0.37     j   'from transition metal complexes'
-Mo 4   O  -2    1,856    0.37     m   ?
+Mo 4   O  -2    1.856    0.37     m   ?
 Mo 4   O  -2    1.762    0.34     ap  'R0 fixed by Mo2O7 Small sample'
 Mo 4   O  -2    1.724    0.562    ax  '6.5 A cut-off'
 Mo 4   S  -2    2.235    0.37     j   'from transition metal complexes'
@@ -1009,7 +1009,7 @@ Mo 6   O  -2    1.907    0.37     a   ?
 Mo 6   O  -2    1.915    0.41     x   ?
 Mo 6   O  -2    1.87     0.26     n   ?
 Mo 6   O  -2    1.900    0.37     m   ?
-Mo 6   O  -2    1.762*   0.27     ap  'R0 fixed by Mo2O7'
+Mo 6   O  -2    1.762    0.27     ap  'R0 fixed by Mo2O7'
 Mo 6   O  -2    1.912    0.405    ax  '5.0 A cut-off'
 Mo 6   S  -2    2.331    0.37     j   'from transition metal complexes'
 Mo 6   F  -1    1.81     0.37     b   ? 
