@@ -72,6 +72,7 @@ _audit_update_record
  2013-09-11 refs bi to bk added
          correction of syntax errors, 
          correcting Mo to Mn for parameters from ref. ap
+ 2014-03-17 add some missing data from ref b (Karol M. Langner)
 ;
 _audit_author_name           'I. David Brown'
 _audit_author_address
@@ -650,25 +651,37 @@ Eu 9   H  -1    1.95     0.37     b   ?
 Fe 2   O  -2    1.734    0.37     a   ?
 Fe 2   O  -2    1.713    0.37     h   ?
 Fe 2   O  -2    1.700    0.37     j   ?
+Fe 2   S  -2    2.16     0.37     b   ?
 Fe 2   S  -2    2.12     0.37     e   unchecked
 Fe 2   S  -2    2.125    0.37     j   'from transition metal complexes'
 Fe 2   F  -1    1.65     0.37     b   ?
 Fe 2   Cl -1    2.06     0.37     b   ?
 Fe 2   Cl -1    2.15     0.37     e   unchecked
+Fe 2   Br -1    2.26     0.37     b   ?
 Fe 2   Br -1    2.21     0.35     e   unchecked
+Fe 2   I  -1    2.47     0.37     b   ?
 Fe 2   I  -1    2.47     0.35     e   ?
+Fe 2   N  -3    1.86     0.37     b   ?
 Fe 2   N  -3    1.769    0.37     j   'from transition metal complexes'
+Fe 2   P  -3    2.27     0.37     b   ?
+Fe 2   Se -2    2.28     0.37     b   ?
 Fe 3   O  -2    1.759    0.37     a   ?
 Fe 3   O  -2    1.751    0.37     h   'from transition metal complexes'
 Fe 3   O  -2    1.765    0.37     j   'from transition metal complexes'
 Fe 3   S  -2    2.149    0.37     a   ?
+Fe 3   S  -2    2.16     0.37     b   ?
 Fe 3   S  -2    2.134    0.37     j   ?
 Fe 3   F  -1    1.679    0.37     a   ? 
 Fe 3   Cl -1    2.09     0.37     b   ?
 Fe 3   Cl -1    2.15     0.37     e   unchecked 
+Fe 3   Br -1    2.26     0.37     b   ?
 Fe 3   Br -1    2.22     0.37     e   ?
+Fe 3   I  -1    2.47     0.37     b   ?
+Fe 3   N  -3    1.86     0.37     b   ?
 Fe 3   N  -3    1.815    0.37     j   'from transition metal complexes'
 Fe 3   C   2    1.689    0.37     a   ?
+Fe 3   P  -3    2.27     0.37     b   ?
+Fe 3   Se -2    2.28     0.37     b   ?
 Fe 4   S  -2    2.23     0.35     e   unchecked
 Fe 6   O  -2    1.76     0.35     e   unchecked
 Fe 9   O  -2    1.795    0.30     ag  'for all oxidation states'
@@ -1886,6 +1899,7 @@ Zn 2   F  -1    1.67     0.37     e   unchecked
 Zn 2   Cl -1    2.01     0.37     b   ?
 Zn 2   Br -1    2.15     0.37     b   ?
 Zn 2   I  -1    2.36     0.37     b   ?
+Zn 2   N  -3    1.77     0.37     b   ?
 Zn 2   N  -3    1.72     0.37     e   unchecked
 Zn 2   P  -3    2.15     0.37     b   ?
 Zn 2   As -3    2.24     0.37     b   ?
