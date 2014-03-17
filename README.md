@@ -25,6 +25,6 @@ Parameters available for K-N bonds: [{'ref': 'b', 'b': 0.37, 'r0': 2.26, 'detail
 >>> params = bv['K'][1]['N'][-3][0]
 >>> print "This would be the bond valence for K-N at 2.5A: %.3f" % math.exp((params['r0']-2.5)/params['b'])
 This would be the bond valence for K-N at 2.5A: 0.523
->>> print "Literature reference for the parameters:", bv.references[params['ref']]
-Literature reference for the parameters: Brese and O
+>>> print 'Literature reference for the parameters: "' + bv.references[params['ref']] + '"'
+Literature reference for the parameters: "Brese and O'Keeffe, (1991), Acta Cryst. B47, 192-197 (extrapolated)"
 ```
