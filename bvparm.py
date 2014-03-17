@@ -1,8 +1,9 @@
+import os
 import sys
 import urllib
 
 
-bvparm_cif = "bvparm2013.cif"
+bvparm_cif = os.path.dirname(os.path.realpath(__file__)) + "/bvparm2013.cif"
 bvparm_cif_url = "http://www.iucr.org/__data/assets/file/0006/81087/bvparm2013.cif"
 
 class BondValenceParameters:
