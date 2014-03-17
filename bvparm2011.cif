@@ -65,6 +65,7 @@ _audit_update_record
  2007-01-20 refs ag to am added
  2009-08-20 refs an to be added
  2011-06-01 refs bf to bh added
+ 2014-03-04 fix what I think are typos (Karol M. Langner)
 ;
 _audit_author_name           'I. David Brown'
 _audit_author_address
